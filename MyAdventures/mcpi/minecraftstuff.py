@@ -3,11 +3,11 @@
 #Raspberry Pi, Minecraft - Minecraft 'stuff' extensions
 
 try:
-    import mcpi.minecraft as minecraft
+    import mcpi.mc as minecraft
     import mcpi.block as block
     import mcpi.util as util
 except ImportError:
-    import minecraft
+    import mc
     import block
     import util
 
@@ -46,7 +46,7 @@ class MinecraftDrawing:
     """
     MinecraftDrawing - a class of useful drawing functions
 
-    :param mcpi.minecraft.Minecraft mc:
+    :param mcpi.mc.Minecraft mc:
         A Minecraft object which is connected to a world. 
     """
     def __init__(self, mc):
@@ -473,10 +473,10 @@ class MinecraftShape:
     
     When a shape is changed and redrawn in Minecraft only the blocks which have changed are updated.
 
-    :param mcpi.minecraft.Minecraft mc:
+    :param mcpi.mc.Minecraft mc:
         A Minecraft object which is connected to a world.
 
-    :param mcpi.minecraft.Vec3 position:
+    :param mcpi.mc.Vec3 position:
         The position where the shape should be created
 
     :param list shapeBlocks:
@@ -946,10 +946,10 @@ class MinecraftTurtle:
     MinecraftTurle - a graphics turtle, which can be used to create 'things' in Minecraft by 
     controlling its position, angles and direction
 
-    :param mcpi.minecraft.Minecraft mc:
+    :param mcpi.mc.Minecraft mc:
         A Minecraft object which is connected to a world.
 
-    :param mcpi.minecraft.Vec3 position:
+    :param mcpi.mc.Vec3 position:
         The position where the shape should be created, defaults to ``0,0,0``.
     """
 
