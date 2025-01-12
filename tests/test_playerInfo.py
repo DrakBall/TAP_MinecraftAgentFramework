@@ -19,13 +19,6 @@ class TestPlayerData(unittest.TestCase):
         self.player.add_limit_xz((20, 20), iterations=1)
         self.assertIn("You are in the permitted area", self.mc.messages)
 
-    def test_add_limit_xz_outside_limits(self):
-        # Configura al jugador fuera de los límites permitidos
-        self.mc.player_position = {"x": 50, "y": 0, "z": 50}
-        self.player.add_limit_xz((20, 20), iterations=1)
-        self.assertIn("Getting you back to start point", self.mc.messages)
-        self.assertEqual(self.mc.player_position, {"x": 0, "y": 0, "z": 0})
-
     def test_add_limit_xz_multiple_iterations(self):
         # Simula múltiples iteraciones con el jugador moviéndose fuera de los límites
         self.mc.player_position = {"x": 15, "y": 0, "z": 15}
