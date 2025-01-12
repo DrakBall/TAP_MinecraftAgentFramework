@@ -1,4 +1,4 @@
-import time
+
 import mcpi.mc as minecraft
 import mcpi.block as block
 
