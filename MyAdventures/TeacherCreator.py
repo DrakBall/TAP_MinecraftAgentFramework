@@ -1,4 +1,4 @@
-from mcpi.minecraft import Minecraft
+
 from jinja2 import Template
 
 class_template = Template("""
