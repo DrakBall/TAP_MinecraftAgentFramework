@@ -1,68 +1,196 @@
-[22:52:41] [Server thread/INFO]: Starting minecraft server version 1.12
-[22:52:41] [Server thread/INFO]: Loading properties
-[22:52:41] [Server thread/INFO]: Default game type: CREATIVE
-[22:52:41] [Server thread/INFO]: Generating keypair
-[22:52:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:52:42] [Server thread/INFO]: Using epoll channel type
-[22:52:42] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
-[22:52:43] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
-[22:52:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:52:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:52:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:52:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:52:43] [Server thread/INFO]: Preparing level "world"
-[22:52:45] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4013093828207788065)
-[22:52:47] [Server thread/INFO]: Preparing spawn area: 4%
-[22:52:48] [Server thread/INFO]: Preparing spawn area: 7%
-[22:52:49] [Server thread/INFO]: Preparing spawn area: 10%
-[22:52:50] [Server thread/INFO]: Preparing spawn area: 14%
-[22:52:51] [Server thread/INFO]: Preparing spawn area: 18%
-[22:52:52] [Server thread/INFO]: Preparing spawn area: 23%
-[22:52:53] [Server thread/INFO]: Preparing spawn area: 27%
-[22:52:54] [Server thread/INFO]: Preparing spawn area: 30%
-[22:52:55] [Server thread/INFO]: Preparing spawn area: 35%
-[22:52:56] [Server thread/INFO]: Preparing spawn area: 40%
-[22:52:57] [Server thread/INFO]: Preparing spawn area: 46%
-[22:52:58] [Server thread/INFO]: Preparing spawn area: 50%
-[22:52:59] [Server thread/INFO]: Preparing spawn area: 55%
-[22:53:00] [Server thread/INFO]: Preparing spawn area: 60%
-[22:53:01] [Server thread/INFO]: Preparing spawn area: 63%
-[22:53:02] [Server thread/INFO]: Preparing spawn area: 68%
-[22:53:03] [Server thread/INFO]: Preparing spawn area: 73%
-[22:53:04] [Server thread/INFO]: Preparing spawn area: 81%
-[22:53:05] [Server thread/INFO]: Preparing spawn area: 88%
-[22:53:06] [Server thread/INFO]: Preparing spawn area: 97%
-[22:53:07] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4013093828207788065)
-[22:53:08] [Server thread/INFO]: Preparing spawn area: 8%
-[22:53:09] [Server thread/INFO]: Preparing spawn area: 15%
-[22:53:10] [Server thread/INFO]: Preparing spawn area: 23%
-[22:53:11] [Server thread/INFO]: Preparing spawn area: 32%
-[22:53:12] [Server thread/INFO]: Preparing spawn area: 45%
-[22:53:13] [Server thread/INFO]: Preparing spawn area: 54%
-[22:53:14] [Server thread/INFO]: Preparing spawn area: 58%
-[22:53:15] [Server thread/INFO]: Preparing spawn area: 66%
-[22:53:16] [Server thread/INFO]: Preparing spawn area: 75%
-[22:53:17] [Server thread/INFO]: Preparing spawn area: 89%
-[22:53:18] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4013093828207788065)
-[22:53:19] [Server thread/INFO]: Preparing spawn area: 40%
-[22:53:20] [Server thread/INFO]: Preparing spawn area: 75%
-[22:53:20] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
-[22:53:20] [Server thread/INFO]: [RaspberryJuice] Using port 4711
-[22:53:20] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
-[22:53:20] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
-[22:53:20] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
-[22:53:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:53:20] [Server thread/INFO]: Done (37.582s)! For help, type "help" or "?"
-[22:53:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2539ms behind, skipping 50 tick(s)
-[22:57:10] [Server thread/INFO]: martinohanlon[/192.168.1.113:51407] logged in with entity id 2191 at ([world]-275.5, 61.0, 308.5)
-[22:58:28] [Server thread/INFO]: Stopping the server
-[22:58:28] [Server thread/INFO]: Stopping server
-[22:58:28] [Server thread/INFO]: [RaspberryJuice] Disabling RaspberryJuice v1.10
-[22:58:28] [Server thread/INFO]: [RaspberryJuice] Raspberry Juice Stopped
-[22:58:28] [Server thread/INFO]: Saving players
-[22:58:28] [Server thread/INFO]: martinohanlon lost connection: Server closed
-[22:58:28] [Server thread/INFO]: martinohanlon left the game
-[22:58:28] [Server thread/INFO]: Saving worlds
-[22:58:28] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[22:58:28] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[22:58:28] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[17:47:39] [Server thread/INFO]: Starting minecraft server version 1.12
+[17:47:39] [Server thread/INFO]: Loading properties
+[17:47:39] [Server thread/INFO]: Default game type: CREATIVE
+[17:47:39] [Server thread/INFO]: Generating keypair
+[17:47:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:47:39] [Server thread/INFO]: Using epoll channel type
+[17:47:39] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[17:47:39] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[17:47:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:47:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:47:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:47:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:47:39] [Server thread/INFO]: Preparing level "world"
+[17:47:39] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8982326761237876401)
+[17:47:40] [Server thread/INFO]: Preparing spawn area: 24%
+[17:47:41] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8982326761237876401)
+[17:47:42] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8982326761237876401)
+[17:47:42] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[17:47:42] [Server thread/INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[17:47:42] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[17:47:42] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[17:47:42] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[17:47:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:47:42] [Server thread/INFO]: Done (2.715s)! For help, type "help" or "?"
+[17:49:22] [Server thread/INFO]: Welcome Pedro Sanchez[m
+
+[17:49:22] [Server thread/INFO]: Pedro Sanchez[/127.0.0.1:38318] logged in with entity id 181 at ([world]187.41193649485342, 66.0, 161.8115915893893)
+[17:49:53] [Thread-6/INFO]: [RaspberryJuice] Starting input thread
+[17:49:53] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:45242.
+[17:49:53] [Thread-7/INFO]: [RaspberryJuice] Starting output thread!
+[17:49:53] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:45256.
+[17:49:53] [Thread-9/INFO]: [RaspberryJuice] Starting output thread!
+[17:49:53] [Thread-8/INFO]: [RaspberryJuice] Starting input thread
+[17:49:53] [Server thread/INFO]: You are in permitted area[m
+
+[17:49:53] [Server thread/INFO]: Your position is Vec3(213,94,149)[m
+
+[17:50:03] [Server thread/INFO]: You are in permitted area[m
+
+[17:50:03] [Server thread/INFO]: Your position is Vec3(224,83,162)[m
+
+[17:50:13] [Server thread/INFO]: You are in permitted area[m
+
+[17:50:13] [Server thread/INFO]: Your position is Vec3(220,85,161)[m
+
+[17:50:16] [Server thread/INFO]: Pedro Sanchez lost connection: Disconnected
+[17:50:16] [Server thread/INFO]: Pedro Sanchez left the game
+[17:50:23] [Server thread/INFO]: You are in permitted area[m
+
+[17:50:23] [Server thread/INFO]: Your position is Vec3(222,83,158)[m
+
+[17:50:30] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:45242.
+[17:50:30] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:45256.
+[18:02:12] [Server thread/INFO]: Welcome Pedro Sanchez[m
+
+[18:02:13] [Server thread/INFO]: Pedro Sanchez[/127.0.0.1:44914] logged in with entity id 195 at ([world]222.30000001192093, 83.0, 158.1075621246379)
+[18:02:18] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56720.
+[18:02:18] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56732.
+[18:02:18] [Thread-11/INFO]: [RaspberryJuice] Starting output thread!
+[18:02:18] [Thread-12/INFO]: [RaspberryJuice] Starting input thread
+[18:02:18] [Thread-13/INFO]: [RaspberryJuice] Starting output thread!
+[18:02:18] [Thread-10/INFO]: [RaspberryJuice] Starting input thread
+[18:02:28] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> hola[m
+
+[18:02:41] [Server thread/INFO]: Pedro Sanchez lost connection: Disconnected
+[18:02:41] [Server thread/INFO]: Pedro Sanchez left the game
+[18:02:45] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56720.
+[18:02:45] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56732.
+[18:08:24] [Server thread/INFO]: Welcome Pedro Sanchez[m
+
+[18:08:24] [Server thread/INFO]: Pedro Sanchez[/127.0.0.1:36284] logged in with entity id 207 at ([world]222.30000001192093, 83.0, 158.1075621246379)
+[18:08:32] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:55692.
+[18:08:32] [Thread-14/INFO]: [RaspberryJuice] Starting input thread
+[18:08:32] [Thread-15/INFO]: [RaspberryJuice] Starting output thread!
+[18:08:32] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:55706.
+[18:08:32] [Thread-16/INFO]: [RaspberryJuice] Starting input thread
+[18:08:32] [Thread-17/INFO]: [RaspberryJuice] Starting output thread!
+[18:08:40] [Netty Epoll Server IO #6/INFO]: <Pedro Sanchez> order[m
+
+[18:09:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:55692.
+[18:09:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:55706.
+[18:09:30] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:41550.
+[18:09:30] [Thread-18/INFO]: [RaspberryJuice] Starting input thread
+[18:09:30] [Thread-19/INFO]: [RaspberryJuice] Starting output thread!
+[18:09:30] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:41556.
+[18:09:30] [Thread-20/INFO]: [RaspberryJuice] Starting input thread
+[18:09:30] [Thread-21/INFO]: [RaspberryJuice] Starting output thread!
+[18:09:40] [Netty Epoll Server IO #6/INFO]: <Pedro Sanchez> order[m
+
+[18:09:40] [Server thread/INFO]: Command: order[m
+
+[18:09:51] [Server thread/INFO]: Pedro Sanchez lost connection: Disconnected
+[18:09:51] [Server thread/INFO]: Pedro Sanchez left the game
+[18:09:54] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:41550.
+[18:09:54] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:41556.
+[18:11:06] [Server thread/INFO]: Welcome Pedro Sanchez[m
+
+[18:11:06] [Server thread/INFO]: Pedro Sanchez[/127.0.0.1:46342] logged in with entity id 219 at ([world]214.43004043289133, 87.0, 134.99872042810875)
+[18:11:10] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:34672.
+[18:11:10] [Thread-23/INFO]: [RaspberryJuice] Starting output thread!
+[18:11:10] [Thread-22/INFO]: [RaspberryJuice] Starting input thread
+[18:11:10] [Thread-24/INFO]: [RaspberryJuice] Starting input thread
+[18:11:10] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:34676.
+[18:11:10] [Thread-25/INFO]: [RaspberryJuice] Starting output thread!
+[18:11:16] [Netty Epoll Server IO #8/INFO]: <Pedro Sanchez> order[m
+
+[18:11:17] [Server thread/INFO]: Command: order[m
+
+[18:11:41] [Netty Epoll Server IO #8/INFO]: <Pedro Sanchez> viva españa[m
+
+[18:11:42] [Server thread/INFO]: Command: viva[m
+
+[18:12:09] [Server thread/INFO]: Pedro Sanchez issued server command: /order
+[18:12:13] [Server thread/INFO]: Pedro Sanchez lost connection: Disconnected
+[18:12:13] [Server thread/INFO]: Pedro Sanchez left the game
+[18:12:17] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:34672.
+[18:12:17] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:34676.
+[18:12:30] [Server thread/INFO]: Welcome Pedro Sanchez[m
+
+[18:12:30] [Server thread/INFO]: Pedro Sanchez[/127.0.0.1:33070] logged in with entity id 246 at ([world]209.03178077660323, 89.0, 128.99492325139894)
+[18:12:40] [Netty Epoll Server IO #10/INFO]: <Pedro Sanchez> viva[m
+
+[18:12:44] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50388.
+[18:12:44] [Thread-26/INFO]: [RaspberryJuice] Starting input thread
+[18:12:44] [Thread-27/INFO]: [RaspberryJuice] Starting output thread!
+[18:12:44] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50400.
+[18:12:44] [Thread-29/INFO]: [RaspberryJuice] Starting output thread!
+[18:12:44] [Thread-28/INFO]: [RaspberryJuice] Starting input thread
+[18:13:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50388.
+[18:13:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50400.
+[18:14:01] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50424.
+[18:14:01] [Thread-30/INFO]: [RaspberryJuice] Starting input thread
+[18:14:01] [Thread-31/INFO]: [RaspberryJuice] Starting output thread!
+[18:14:01] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50426.
+[18:14:01] [Thread-32/INFO]: [RaspberryJuice] Starting input thread
+[18:14:01] [Thread-33/INFO]: [RaspberryJuice] Starting output thread!
+[18:14:06] [Netty Epoll Server IO #10/INFO]: <Pedro Sanchez> order[m
+
+[18:14:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50424.
+[18:14:28] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50426.
+[18:14:49] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:37716.
+[18:14:49] [Thread-35/INFO]: [RaspberryJuice] Starting output thread!
+[18:14:49] [Thread-34/INFO]: [RaspberryJuice] Starting input thread
+[18:14:49] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:37720.
+[18:14:49] [Thread-36/INFO]: [RaspberryJuice] Starting input thread
+[18:14:49] [Thread-37/INFO]: [RaspberryJuice] Starting output thread!
+[18:14:58] [Netty Epoll Server IO #10/INFO]: <Pedro Sanchez> order[m
+
+[18:15:09] [Server thread/INFO]: Command: order[m
+
+[18:15:12] [Server thread/INFO]: Recibido[m
+
+[18:15:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:37716.
+[18:15:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:37720.
+[18:17:14] [Server thread/INFO]: Pedro Sanchez lost connection: Disconnected
+[18:17:14] [Server thread/INFO]: Pedro Sanchez left the game
+[18:23:20] [Server thread/INFO]: Welcome Pedro Sanchez[m
+
+[18:23:20] [Server thread/INFO]: Pedro Sanchez[/127.0.0.1:41832] logged in with entity id 257 at ([world]209.03178077660323, 89.0, 128.99492325139894)
+[18:23:24] [Thread-38/INFO]: [RaspberryJuice] Starting input thread
+[18:23:24] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:44414.
+[18:23:24] [Thread-39/INFO]: [RaspberryJuice] Starting output thread!
+[18:23:24] [Thread-40/INFO]: [RaspberryJuice] Starting input thread
+[18:23:24] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:44424.
+[18:23:24] [Thread-41/INFO]: [RaspberryJuice] Starting output thread!
+[18:23:36] [Netty Epoll Server IO #12/INFO]: <Pedro Sanchez> order caca culo[m
+
+[18:23:37] [Server thread/INFO]: Command: order[m
+
+[18:23:37] [Server thread/INFO]: Recieved order[m
+
+[18:24:18] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:44414.
+[18:24:18] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:44424.
+[18:29:39] [Server thread/INFO]: Pedro Sanchez lost connection: Disconnected
+[18:29:39] [Server thread/INFO]: Pedro Sanchez left the game
+[18:40:38] [Thread-2/INFO]: Stopping server
+[18:40:38] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:291) ~[?:?]
+	at java.io.BufferedInputStream.implRead(BufferedInputStream.java:325) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:312) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at net.minecraft.server.v1_12_R1.DedicatedServer$2.run(DedicatedServer.java:84) [craftbukkit.jar:git-Bukkit-ed8c725]
+[18:40:38] [Thread-2/INFO]: Saving players
+[18:40:38] [Thread-2/INFO]: Saving worlds
+[18:40:38] [Thread-2/INFO]: Saving chunks for level 'world'/overworld
+[18:40:38] [Thread-2/INFO]: Saving chunks for level 'world_nether'/the_nether
+[18:40:38] [Thread-2/INFO]: Saving chunks for level 'world_the_end'/the_end
