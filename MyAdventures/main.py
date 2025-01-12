@@ -40,13 +40,17 @@ class Framework:
                 command = e.message.split()[0]
                 self.mc.postToChat(f"Command: {command}")
                 if command == 'order':
-                    self.mc.postToChat("Recieved order")
-                    order = ' '.join(e.message.split()[1:])
-                    func = getattr(self, order)
-                    if callable(func):
-                        func()
-                    else:
-                        self.mc.postToChat("No such function")
+                    self.mc.postToChat("Received order")
+                    order_parts = e.message.split()[1:]
+                    if len(order_parts) > 0:
+                        order = order_parts[0]
+                        params = eval(' '.join(order_parts[1:])) if len(order_parts) > 1 else []
+                        func = getattr(self, order, None)
+                        if callable(func):
+                            res = func(params)
+                            self.mc.postToChat(f"Result: {res}")
+                        else:
+                            self.mc.postToChat(f"Method {order} not found")
 
             sleep(1)
 
