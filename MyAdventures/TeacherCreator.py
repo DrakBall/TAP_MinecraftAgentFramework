@@ -1,17 +1,25 @@
 from mcpi.minecraft import Minecraft
 from jinja2 import Template
 
-if __name__ == '__main__':
-    class_template = Template("""
+class_template = Template("""
 class Profe:
     def __init__(self, name, age):
-        self.name = '{{ name }}'
-        self.age = {{ age }}
-    """)
+        self.name = name
+        self.age = age
+""")
 
-    class_code = class_template.render(name="Alice", age=30)
-    exec(class_code)
+# Generar el código de la clase
+class_code = class_template.render()
 
-    person = Profe("Bob", 25)
-    print(person.name)  # Output: "Bob"
-    print(person.age)  # Output: 25
+# Crear un diccionario para capturar el entorno local del exec
+local_env = {}
+exec(class_code, {}, local_env)
+
+# Acceder a la clase Profe desde el diccionario local_env
+Profe = local_env['Profe']
+
+# Crear una instancia de Profe
+person = Profe("Bob", 25)
+print(person.name)  # Output: "Bob"
+print(person.age)  # Output: 25
+
