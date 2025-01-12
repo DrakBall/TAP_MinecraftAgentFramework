@@ -38,10 +38,15 @@ class insultDecoratorForPedro:
         return self.__client.message + " You bastard Pedro!"
 
 
-# Lógica principal adaptada
-def main_loop(mc):
-    while True:
-        time.sleep(5)  # Simula un bucle periódico
+# Lógica principal ajustada
+def main_loop(mc, iterations=1):
+    """
+    Ejecuta la lógica principal un número limitado de iteraciones.
+    :param mc: Instancia de MockMinecraft.
+    :param iterations: Número de iteraciones del bucle.
+    """
+    for _ in range(iterations):
+        time.sleep(1)  # Simula un bucle periódico
         ids = mc.getPlayerEntityIds()
         nombres = [mc.entity_getName(pid) for pid in ids]
         se_encuentra_pedro = any(nombre == "Pedro Sanchez" for nombre in nombres)
