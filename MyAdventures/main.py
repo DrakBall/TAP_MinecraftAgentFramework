@@ -3,13 +3,19 @@ from time import sleep
 from playerInfo import PlayerData
 from random import randint
 import threading as thr
-
+from pedroTNT import tnt_bot
 
 class Framework:
 
     def __init__(self):
         self.mc = Minecraft.create()
         self.player = PlayerData()
+
+    @staticmethod
+    def tnt_bot():
+        thread = thr.Thread(target=tnt_bot())
+        thread.start()
+        return thread
 
     @staticmethod
     def square_position(position):
@@ -47,7 +53,10 @@ class Framework:
                         params = eval(' '.join(order_parts[1:])) if len(order_parts) > 1 else []
                         func = getattr(self, order, None)
                         if callable(func):
-                            res = func(params)
+                            if params:
+                                res = func(params)
+                            else:
+                                res = func()
                             self.mc.postToChat(f"Result: {res}")
                         else:
                             self.mc.postToChat(f"Method {order} not found")
