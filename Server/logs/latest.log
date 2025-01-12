@@ -225,3 +225,34 @@
 [23:11:31] [Server thread/INFO]: Your position is Vec3(50,72,9)[m
 
 [23:11:32] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57540.
+[23:14:13] [Server thread/INFO]: Pedro Sanchez lost connection: Disconnected
+[23:14:13] [Server thread/INFO]: Pedro Sanchez left the game
+[23:27:23] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:41336.
+[23:27:23] [Thread-37/INFO]: [RaspberryJuice] Starting output thread!
+[23:27:23] [Thread-36/INFO]: [RaspberryJuice] Starting input thread
+[23:27:23] [Server thread/WARN]: [RaspberryJuice] Error occured handling command
+[23:27:23] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Player.getLocation()" because "currentPlayer" is null
+
+[23:27:23] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleCommand(RemoteSession.java:376)
+
+[23:27:23] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:163)
+
+[23:27:23] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:143)
+
+[23:27:23] [Server thread/WARN]: 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:237)
+
+[23:27:23] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:53)
+
+[23:27:23] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[23:27:23] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:689)
+
+[23:27:23] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:366)
+
+[23:27:23] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:650)
+
+[23:27:23] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:554)
+
+[23:27:23] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[23:27:23] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:41336.
