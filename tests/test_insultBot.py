@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from insultBotSim import MockMinecraft, niceMessage, insultDecoratorForPedro, main_loop  # Cambia "your_module"
+from insultBotSim import MockMinecraft, niceMessage, insultDecoratorForPedro, main_loop
 
 class TestMinecraftProgram(unittest.TestCase):
     def setUp(self):

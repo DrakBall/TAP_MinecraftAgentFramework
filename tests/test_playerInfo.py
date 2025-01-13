@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from playerInfoSim import MockMinecraft, PlayerData  # Cambia "your_module"
+from playerInfoSim import MockMinecraft, PlayerData
 
 class TestPlayerData(unittest.TestCase):
     def setUp(self):

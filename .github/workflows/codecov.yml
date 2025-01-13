@@ -25,6 +25,7 @@ jobs:
         run: |
             pip install pytest pytest-cov
             pip install coverage
+            pip install jinja2
 
       - name: Run tests
         run: |

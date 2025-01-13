@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from pedroTNTSim import MockMinecraft, MockBlock, handle_players  # Cambia "your_module" por el nombre del archivo
+from pedroTNTSim import MockMinecraft, MockBlock, handle_players
 
 class TestMinecraftSimulation(unittest.TestCase):
     def setUp(self):

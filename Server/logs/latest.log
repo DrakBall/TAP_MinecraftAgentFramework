@@ -1,127 +1,53 @@
-[09:33:42] [Server thread/INFO]: Starting minecraft server version 1.12
-[09:33:42] [Server thread/INFO]: Loading properties
-[09:33:42] [Server thread/INFO]: Default game type: CREATIVE
-[09:33:42] [Server thread/INFO]: Generating keypair
-[09:33:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:33:42] [Server thread/INFO]: Using epoll channel type
-[09:33:42] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
-[09:33:42] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
-[09:33:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:33:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:33:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:33:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:33:42] [Server thread/INFO]: Preparing level "world"
-[09:33:42] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8982326761237876401)
-[09:33:43] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8982326761237876401)
-[09:33:44] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8982326761237876401)
-[09:33:44] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
-[09:33:44] [Server thread/INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
-[09:33:44] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
-[09:33:44] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
-[09:33:44] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
-[09:33:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[09:33:44] [Server thread/INFO]: Done (1.682s)! For help, type "help" or "?"
-[09:34:44] [Server thread/INFO]: Welcome Pedro Sanchez[m
+[09:05:05] [Server thread/INFO]: Starting minecraft server version 1.12
+[09:05:05] [Server thread/INFO]: Loading properties
+[09:05:05] [Server thread/INFO]: Default game type: CREATIVE
+[09:05:05] [Server thread/INFO]: Generating keypair
+[09:05:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:05:05] [Server thread/INFO]: Using epoll channel type
+[09:05:05] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[09:05:05] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[09:05:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:05:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:05:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:05:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:05:05] [Server thread/INFO]: Preparing level "world"
+[09:05:05] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8982326761237876401)
+[09:05:06] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8982326761237876401)
+[09:05:06] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8982326761237876401)
+[09:05:07] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[09:05:07] [Server thread/INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[09:05:07] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[09:05:07] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[09:05:07] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[09:05:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:05:07] [Server thread/INFO]: Done (1.774s)! For help, type "help" or "?"
+[09:05:16] [Server thread/INFO]: Welcome Pedro Sanchez[m
 
-[09:34:44] [Server thread/INFO]: Pedro Sanchez[/127.0.0.1:53206] logged in with entity id 21 at ([world]222.30000001192093, 84.0, 134.65803654404175)
-[09:35:20] [Netty Epoll Server IO #2/INFO]: <Pedro Sanchez> order teacher_creator[m
+[09:05:16] [Server thread/INFO]: Pedro Sanchez[/127.0.0.1:42758] logged in with entity id 21 at ([world]222.30000001192093, 84.0, 134.65803654404175)
+[09:05:36] [Thread-6/INFO]: [RaspberryJuice] Starting input thread
+[09:05:36] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53658.
+[09:05:36] [Thread-7/INFO]: [RaspberryJuice] Starting output thread!
+[09:05:36] [Server thread/INFO]: Escribe 'crear' para añadir un Profe o 'salir' para terminar.[m
 
-[09:35:30] [Thread-7/INFO]: [RaspberryJuice] Starting output thread!
-[09:35:30] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57404.
-[09:35:30] [Thread-6/INFO]: [RaspberryJuice] Starting input thread
-[09:35:30] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57418.
-[09:35:30] [Thread-8/INFO]: [RaspberryJuice] Starting input thread
-[09:35:30] [Thread-9/INFO]: [RaspberryJuice] Starting output thread!
-[09:35:30] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57430.
-[09:35:30] [Thread-10/INFO]: [RaspberryJuice] Starting input thread
-[09:35:30] [Thread-11/INFO]: [RaspberryJuice] Starting output thread!
-[09:35:30] [Thread-12/INFO]: [RaspberryJuice] Starting input thread
-[09:35:30] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:57436.
-[09:35:30] [Thread-13/INFO]: [RaspberryJuice] Starting output thread!
-[09:35:44] [Netty Epoll Server IO #2/INFO]: <Pedro Sanchez> order teacher_creator[m
+[09:05:49] [Netty Epoll Server IO #2/INFO]: <Pedro Sanchez> crear[m
 
-[09:35:44] [Server thread/INFO]: Escribe 'crear' para añadir un Profe o 'salir' para terminar.[m
+[09:05:49] [Server thread/INFO]: Introduce el nombre del Profe en el chat.[m
 
-[09:35:44] [Server thread/INFO]: Command: order[m
+[09:05:56] [Netty Epoll Server IO #2/INFO]: <Pedro Sanchez> Jose[m
 
-[09:35:44] [Server thread/INFO]: Received order[m
+[09:05:56] [Server thread/INFO]: Nombre recibido: Jose. Ahora, introduce la edad.[m
 
-[09:35:44] [Server thread/INFO]: Comando no reconocido. Escribe 'crear' o 'salir'.[m
+[09:06:00] [Netty Epoll Server IO #2/INFO]: <Pedro Sanchez> 38[m
 
-[09:36:16] [Netty Epoll Server IO #2/INFO]: <Pedro Sanchez> crear Molina mando_mail[m
+[09:06:00] [Server thread/INFO]: Profe creado: Nombre = Jose, Edad = 38[m
 
-[09:36:16] [Server thread/INFO]: Comando no reconocido. Escribe 'crear' o 'salir'.[m
+[09:06:00] [Server thread/INFO]: Escribe 'crear' para añadir otro Profe o 'salir' para terminar.[m
 
-[09:36:33] [Netty Epoll Server IO #2/INFO]: <Pedro Sanchez> crear Molina[m
+[09:06:03] [Netty Epoll Server IO #2/INFO]: <Pedro Sanchez> salir[m
 
-[09:36:33] [Server thread/INFO]: Comando no reconocido. Escribe 'crear' o 'salir'.[m
+[09:06:03] [Server thread/INFO]: Saliendo del programa.[m
 
-[09:36:42] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57404.
-[09:36:42] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57418.
-[09:36:42] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57430.
-[09:36:42] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:57436.
-[09:36:52] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:42314.
-[09:36:52] [Thread-14/INFO]: [RaspberryJuice] Starting input thread
-[09:36:52] [Thread-15/INFO]: [RaspberryJuice] Starting output thread!
-[09:36:52] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:42326.
-[09:36:52] [Thread-17/INFO]: [RaspberryJuice] Starting output thread!
-[09:36:52] [Thread-16/INFO]: [RaspberryJuice] Starting input thread
-[09:36:52] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:42332.
-[09:36:52] [Thread-19/INFO]: [RaspberryJuice] Starting output thread!
-[09:36:52] [Thread-18/INFO]: [RaspberryJuice] Starting input thread
-[09:36:52] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:42334.
-[09:36:52] [Thread-21/INFO]: [RaspberryJuice] Starting output thread!
-[09:36:52] [Thread-20/INFO]: [RaspberryJuice] Starting input thread
-[09:37:03] [Netty Epoll Server IO #2/INFO]: <Pedro Sanchez> order teacher_creator[m
-
-[09:37:03] [Server thread/INFO]: Escribe 'crear' para añadir un Profe o 'salir' para terminar.[m
-
-[09:37:03] [Server thread/INFO]: Command: order[m
-
-[09:37:03] [Server thread/INFO]: Received order[m
-
-[09:37:03] [Server thread/INFO]: Comando no reconocido. Escribe 'crear' o 'salir'.[m
-
-[09:37:28] [Netty Epoll Server IO #2/INFO]: <Pedro Sanchez> order random_multiplicator 12[m
-
-[09:37:28] [Server thread/INFO]: Comando no reconocido. Escribe 'crear' o 'salir'.[m
-
-[09:37:46] [Server thread/INFO]: Pedro Sanchez lost connection: Disconnected
-[09:37:46] [Server thread/INFO]: Pedro Sanchez left the game
-[09:37:51] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:42314.
-[09:37:51] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:42326.
-[09:37:51] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:42332.
-[09:37:51] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:42334.
-[09:39:13] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:36780.
-[09:39:13] [Thread-23/INFO]: [RaspberryJuice] Starting output thread!
-[09:39:13] [Thread-22/INFO]: [RaspberryJuice] Starting input thread
-[09:39:13] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:36792.
-[09:39:13] [Thread-24/INFO]: [RaspberryJuice] Starting input thread
-[09:39:13] [Thread-25/INFO]: [RaspberryJuice] Starting output thread!
-[09:39:13] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:36808.
-[09:39:13] [Thread-26/INFO]: [RaspberryJuice] Starting input thread
-[09:39:13] [Thread-27/INFO]: [RaspberryJuice] Starting output thread!
-[09:39:13] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:36814.
-[09:39:13] [Thread-28/INFO]: [RaspberryJuice] Starting input thread
-[09:39:13] [Thread-29/INFO]: [RaspberryJuice] Starting output thread!
-[09:39:16] [Server thread/INFO]: Welcome Pedro Sanchez[m
-
-[09:39:16] [Server thread/INFO]: Pedro Sanchez[/127.0.0.1:50142] logged in with entity id 30 at ([world]173.59695573051192, 85.0, 123.29035783667095)
-[09:39:50] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> order teacher_creator[m
-
-[09:39:51] [Server thread/INFO]: Escribe 'crear' para añadir un Profe o 'salir' para terminar.[m
-
-[09:39:51] [Server thread/INFO]: Command: order[m
-
-[09:39:51] [Server thread/INFO]: Received order[m
-
-[09:39:51] [Server thread/INFO]: Comando no reconocido. Escribe 'crear' o 'salir'.[m
-
-[09:40:14] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> salir[m
-
-[09:40:14] [Server thread/INFO]: Saliendo del programa.[m
-
-[09:40:14] [Server thread/WARN]: [RaspberryJuice] Task #2 for RaspberryJuice v1.12.1 generated an exception
+[09:06:03] [Server thread/WARN]: [RaspberryJuice] Task #2 for RaspberryJuice v1.12.1 generated an exception
 java.lang.StringIndexOutOfBoundsException: Range [10, 9) out of bounds for length 10
 	at jdk.internal.util.Preconditions$1.apply(Preconditions.java:55) ~[?:?]
 	at jdk.internal.util.Preconditions$1.apply(Preconditions.java:52) ~[?:?]
@@ -130,8 +56,8 @@ java.lang.StringIndexOutOfBoundsException: Range [10, 9) out of bounds for lengt
 	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98) ~[?:?]
 	at jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112) ~[?:?]
 	at jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349) ~[?:?]
-	at java.lang.String.checkBoundsBeginEnd(String.java:4865) ~[?:?]
-	at java.lang.String.substring(String.java:2834) ~[?:?]
+	at java.lang.String.checkBoundsBeginEnd(String.java:4963) ~[?:?]
+	at java.lang.String.substring(String.java:2925) ~[?:?]
 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:161) ~[?:?]
 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:143) ~[?:?]
 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:237) ~[?:?]
@@ -141,8 +67,8 @@ java.lang.StringIndexOutOfBoundsException: Range [10, 9) out of bounds for lengt
 	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:366) ~[craftbukkit.jar:git-Bukkit-ed8c725]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:650) ~[craftbukkit.jar:git-Bukkit-ed8c725]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:554) ~[craftbukkit.jar:git-Bukkit-ed8c725]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[09:40:14] [Server thread/WARN]: [RaspberryJuice] Task #2 for RaspberryJuice v1.12.1 generated an exception
+	at java.lang.Thread.run(Thread.java:1575) [?:?]
+[09:06:04] [Server thread/WARN]: [RaspberryJuice] Task #2 for RaspberryJuice v1.12.1 generated an exception
 java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 32
 	at jdk.internal.util.Preconditions$1.apply(Preconditions.java:55) ~[?:?]
 	at jdk.internal.util.Preconditions$1.apply(Preconditions.java:52) ~[?:?]
@@ -151,8 +77,8 @@ java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for lengt
 	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98) ~[?:?]
 	at jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112) ~[?:?]
 	at jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349) ~[?:?]
-	at java.lang.String.checkBoundsBeginEnd(String.java:4865) ~[?:?]
-	at java.lang.String.substring(String.java:2834) ~[?:?]
+	at java.lang.String.checkBoundsBeginEnd(String.java:4963) ~[?:?]
+	at java.lang.String.substring(String.java:2925) ~[?:?]
 	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:159) ~[?:?]
 	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:143) ~[?:?]
 	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:237) ~[?:?]
@@ -162,74 +88,113 @@ java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for lengt
 	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:366) ~[craftbukkit.jar:git-Bukkit-ed8c725]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:650) ~[craftbukkit.jar:git-Bukkit-ed8c725]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:554) ~[craftbukkit.jar:git-Bukkit-ed8c725]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[09:40:14] [Server thread/INFO]: Result: <Thread(Thread-1, stopped 123377012442816)>[m
+	at java.lang.Thread.run(Thread.java:1575) [?:?]
+[09:06:04] [Server thread/INFO]: 1. Nombre: Jose, Edad: 38[m
 
-[09:40:15] [Server thread/INFO]: Command: salir[m
+[09:06:04] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53658.
+[09:06:34] [Server thread/INFO]: Pedro Sanchez lost connection: Disconnected
+[09:06:34] [Server thread/INFO]: Pedro Sanchez left the game
+[09:49:06] [Server thread/INFO]: Welcome Pedro Sanchez[m
 
-[09:40:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:36780.
-[09:40:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:36792.
-[09:40:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:36808.
-[09:40:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:36814.
-[09:41:16] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:47886.
-[09:41:16] [Thread-30/INFO]: [RaspberryJuice] Starting input thread
-[09:41:16] [Thread-31/INFO]: [RaspberryJuice] Starting output thread!
-[09:41:16] [Thread-32/INFO]: [RaspberryJuice] Starting input thread
-[09:41:16] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:47900.
-[09:41:16] [Thread-33/INFO]: [RaspberryJuice] Starting output thread!
-[09:41:16] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:47906.
-[09:41:16] [Thread-34/INFO]: [RaspberryJuice] Starting input thread
-[09:41:16] [Thread-35/INFO]: [RaspberryJuice] Starting output thread!
-[09:41:16] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:47918.
-[09:41:16] [Thread-36/INFO]: [RaspberryJuice] Starting input thread
-[09:41:16] [Thread-37/INFO]: [RaspberryJuice] Starting output thread!
-[09:41:35] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> order teacher_creator[m
+[09:49:06] [Server thread/INFO]: Pedro Sanchez[/127.0.0.1:52400] logged in with entity id 22 at ([world]222.30000001192093, 84.0, 134.65803654404175)
+[09:49:15] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:55752.
+[09:49:15] [Thread-8/INFO]: [RaspberryJuice] Starting input thread
+[09:49:15] [Thread-9/INFO]: [RaspberryJuice] Starting output thread!
+[09:49:15] [Server thread/INFO]: Escribe 'crear' para añadir un Profe o 'salir' para terminar.[m
 
-[09:41:36] [Server thread/INFO]: Escribe 'crear' para añadir un Profe o 'salir' para terminar.[m
+[09:49:21] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> crear[m
 
-[09:41:36] [Server thread/INFO]: Command: order[m
+[09:49:21] [Server thread/INFO]: Introduce el nombre del Profe en el chat.[m
 
-[09:41:36] [Server thread/INFO]: Received order[m
+[09:49:24] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> Jose[m
 
-[09:41:36] [Server thread/INFO]: Comando no reconocido. Escribe 'crear' o 'salir'.[m
+[09:49:24] [Server thread/INFO]: Nombre recibido: Jose. Ahora, introduce la edad.[m
 
-[09:41:52] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> random_increment 10[m
+[09:49:27] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> 32[m
 
-[09:41:52] [Server thread/INFO]: Comando no reconocido. Escribe 'crear' o 'salir'.[m
+[09:49:28] [Server thread/INFO]: Profe creado: Nombre = Jose, Edad = 32[m
 
-[09:42:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:47886.
-[09:42:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:47900.
-[09:42:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:47906.
-[09:42:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:47918.
-[09:42:35] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:59280.
-[09:42:35] [Thread-38/INFO]: [RaspberryJuice] Starting input thread
-[09:42:35] [Thread-39/INFO]: [RaspberryJuice] Starting output thread!
-[09:42:35] [Server thread/INFO]: Escribe 'crear' para añadir un Profe o 'salir' para terminar.[m
+[09:49:28] [Server thread/INFO]: Escribe 'crear' para añadir otro Profe o 'salir' para terminar.[m
 
-[09:42:47] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> crear tonto 11[m
+[09:49:33] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> Arnau[m
 
-[09:42:47] [Server thread/INFO]: Comando no reconocido. Escribe 'crear' o 'salir'.[m
+[09:49:33] [Server thread/INFO]: Comando no reconocido. Escribe 'crear' o 'salir'.[m
 
-[09:43:19] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:59280.
-[09:43:36] [Server thread/INFO]: Pedro Sanchez lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[09:43:36] [Server thread/INFO]: Pedro Sanchez left the game
-[09:45:06] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[09:49:35] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> 3[m
 
-[09:45:11] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
-	at java.io.BufferedInputStream.fill(BufferedInputStream.java:291) ~[?:?]
-	at java.io.BufferedInputStream.implRead(BufferedInputStream.java:325) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:312) ~[?:?]
-	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[craftbukkit.jar:git-Bukkit-ed8c725]
-	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[craftbukkit.jar:git-Bukkit-ed8c725]
-	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[craftbukkit.jar:git-Bukkit-ed8c725]
-	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[craftbukkit.jar:git-Bukkit-ed8c725]
-	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[craftbukkit.jar:git-Bukkit-ed8c725]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[craftbukkit.jar:git-Bukkit-ed8c725]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[craftbukkit.jar:git-Bukkit-ed8c725]
-	at net.minecraft.server.v1_12_R1.DedicatedServer$2.run(DedicatedServer.java:84) [craftbukkit.jar:git-Bukkit-ed8c725]
-[09:45:11] [Thread-2/INFO]: Stopping server
-[09:45:11] [Thread-2/INFO]: [RaspberryJuice] Disabling RaspberryJuice v1.12.1
-[09:45:11] [Thread-2/INFO]: Saving players
+[09:49:35] [Server thread/INFO]: Comando no reconocido. Escribe 'crear' o 'salir'.[m
+
+[09:49:41] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> crear[m
+
+[09:49:41] [Server thread/INFO]: Introduce el nombre del Profe en el chat.[m
+
+[09:49:44] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> Arnau[m
+
+[09:49:44] [Server thread/INFO]: Nombre recibido: Arnau. Ahora, introduce la edad.[m
+
+[09:49:45] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> 3[m
+
+[09:49:45] [Server thread/INFO]: Profe creado: Nombre = Arnau, Edad = 3[m
+
+[09:49:45] [Server thread/INFO]: Escribe 'crear' para añadir otro Profe o 'salir' para terminar.[m
+
+[09:49:47] [Netty Epoll Server IO #4/INFO]: <Pedro Sanchez> salir[m
+
+[09:49:47] [Server thread/INFO]: Saliendo del programa.[m
+
+[09:49:47] [Server thread/WARN]: [RaspberryJuice] Task #2 for RaspberryJuice v1.12.1 generated an exception
+java.lang.StringIndexOutOfBoundsException: Range [10, 9) out of bounds for length 10
+	at jdk.internal.util.Preconditions$1.apply(Preconditions.java:55) ~[?:?]
+	at jdk.internal.util.Preconditions$1.apply(Preconditions.java:52) ~[?:?]
+	at jdk.internal.util.Preconditions$4.apply(Preconditions.java:213) ~[?:?]
+	at jdk.internal.util.Preconditions$4.apply(Preconditions.java:210) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112) ~[?:?]
+	at jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349) ~[?:?]
+	at java.lang.String.checkBoundsBeginEnd(String.java:4963) ~[?:?]
+	at java.lang.String.substring(String.java:2925) ~[?:?]
+	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:161) ~[?:?]
+	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:143) ~[?:?]
+	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:237) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:53) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:689) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:366) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:650) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:554) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at java.lang.Thread.run(Thread.java:1575) [?:?]
+[09:49:47] [Server thread/WARN]: [RaspberryJuice] Task #2 for RaspberryJuice v1.12.1 generated an exception
+java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 32
+	at jdk.internal.util.Preconditions$1.apply(Preconditions.java:55) ~[?:?]
+	at jdk.internal.util.Preconditions$1.apply(Preconditions.java:52) ~[?:?]
+	at jdk.internal.util.Preconditions$4.apply(Preconditions.java:213) ~[?:?]
+	at jdk.internal.util.Preconditions$4.apply(Preconditions.java:210) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112) ~[?:?]
+	at jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349) ~[?:?]
+	at java.lang.String.checkBoundsBeginEnd(String.java:4963) ~[?:?]
+	at java.lang.String.substring(String.java:2925) ~[?:?]
+	at net.zhuoweizhang.raspberryjuice.RemoteSession.handleLine(RemoteSession.java:159) ~[?:?]
+	at net.zhuoweizhang.raspberryjuice.RemoteSession.tick(RemoteSession.java:143) ~[?:?]
+	at net.zhuoweizhang.raspberryjuice.RaspberryJuicePlugin$TickHandler.run(RaspberryJuicePlugin.java:237) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:53) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:689) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:366) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:650) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:554) ~[craftbukkit.jar:git-Bukkit-ed8c725]
+	at java.lang.Thread.run(Thread.java:1575) [?:?]
+[09:49:47] [Server thread/INFO]: 1. Nombre: Jose, Edad: 32[m
+
+[09:49:47] [Server thread/INFO]: 2. Nombre: Arnau, Edad: 3[m
+
+[09:49:47] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:55752.
+[09:50:10] [Server thread/INFO]: Pedro Sanchez lost connection: Disconnected
+[09:50:10] [Server thread/INFO]: Pedro Sanchez left the game
+[09:50:14] [Thread-4/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:39368.
+[09:50:14] [Thread-11/INFO]: [RaspberryJuice] Starting output thread!
+[09:50:14] [Thread-10/INFO]: [RaspberryJuice] Starting input thread
+[09:50:14] [Server thread/INFO]: Escribe 'crear' para añadir un Profe o 'salir' para terminar.[m
+
+[09:50:18] [Thread-10/INFO]: [RaspberryJuice] Connection reset
+[09:50:18] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:39368.

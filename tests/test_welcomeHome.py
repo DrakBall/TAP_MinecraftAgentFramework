@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from welcomeHomeSim import MockMinecraft, main_loop  # Cambia "your_module" por el nombre de tu archivo
+from welcomeHomeSim import MockMinecraft, main_loop
 
 
 class TestMinecraftProgram(unittest.TestCase):
