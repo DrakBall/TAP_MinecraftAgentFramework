@@ -4,6 +4,7 @@ from playerInfo import PlayerData
 from random import randint
 import threading as thr
 from pedroTNT import tnt_bot
+from teacherCreator import main as teacherCreator
 
 class Framework:
 
@@ -15,7 +16,7 @@ class Framework:
     def tnt_bot():
         thread = thr.Thread(target=tnt_bot())
         thread.start()
-        return thread
+
 
     @staticmethod
     def square_position(position):
@@ -38,6 +39,12 @@ class Framework:
         thread=  thr.Thread(target=PlayerData().add_limit_xz, args=(limit,))
         thread.start()
         return thread
+
+    @staticmethod
+    def teacher_creator():
+        thread = thr.Thread(target=teacherCreator(), args=())
+        thread.start()
+
 
     def read_chat(self):
         while True:
